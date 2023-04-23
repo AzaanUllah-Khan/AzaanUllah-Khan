@@ -11,6 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzaanUllah-Khan](https://github.com/AzaanUllah-Khan)
 
+- 📱 My Instagram Clone Website [https://github.com/AzaanUllah-Khan/Instello](https://github.com/AzaanUllah-Khan/Instello)
+
+- ⚡ MS WORD CLONE [https://github.com/AzaanUllah-Khan/Ms-Word](https://github.com/AzaanUllah-Khan/Ms-Word)
+
 - 💬 Ask me about **Front End Development || Web Designing**
 
 - 📫 How to reach me **azaanullahkhan291@gmail.com**
