@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **Front End Development || Web Designing**
 
+- ⚡ Fun fact: I use tabs over spaces
+
 - 📫 How to reach me **azaanullahkhan291@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
@@ -26,11 +28,32 @@
 <a href="https://discord.gg/https://discord.gg/VNeD4KRj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VNeD4KRj" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### My Skill Set  
+<table><tr><td valign="top" width="33%">
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+</td><td valign="top" width="33%">
+I have Learnt HTML5 CSS3 and Bootstrap and working on JavaScript  
+</td></tr></table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaanullah-khan&show_icons=true&locale=en&layout=compact" alt="azaanullah-khan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaanullah-khan&show_icons=true&locale=en" alt="azaanullah-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaanullah-khan&" alt="azaanullah-khan" /></p>
+<hr />
+
+
+
+
+<br/>
+<div align="center">
+<a href="https://github.com/AzaanUllah-Khan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>  
