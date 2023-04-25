@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm AzaanUllah Khan</h1>
-<h3 align="center">I am a Learning Web Developer</h3>
+<h3 align="center">I am a Front End Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
+<img src="https://media.licdn.com/dms/image/D4D03AQHyJrtE6WbAfw/profile-displayphoto-shrink_200_200/0/1678030659122?e=1687996800&v=beta&t=d0yJ4cW1VKJH42BTBVUYNUNNGZAsvPI1nyd3WdKYeF4" align="right" width="200px" height="200px">
 
-- 🔭 I’m currently working on **LinkedIn Clone Website**
+- 🔭 I’m currently working on **Netflix Clone Website**
 
 - 🌱 I’m currently learning **Java Script**
 
@@ -28,7 +29,7 @@
 <a href="https://discord.gg/https://discord.gg/VNeD4KRj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VNeD4KRj" height="30" width="40" /></a>
 </p>
 
-### My Skill Set  
+### My Skill Set:
 <table><tr><td valign="top" width="33%">
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
