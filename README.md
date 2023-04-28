@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
 <img src="https://media.licdn.com/dms/image/D4D03AQHyJrtE6WbAfw/profile-displayphoto-shrink_200_200/0/1678030659122?e=1687996800&v=beta&t=d0yJ4cW1VKJH42BTBVUYNUNNGZAsvPI1nyd3WdKYeF4" align="right" width="200px" height="200px">
 
-- 🔭 I’m currently working on [**Netflix Clone Website**](https://github.com/AzaanUllah-Khan/Netflix-Clone-Websie)
+- 🔭 I’m currently working on [**Netflix Clone Website**](https://azaanullah-khan.github.io/Netflix-Clone-Website/)
 
 - 🌱 I’m currently learning **Java Script**
 
