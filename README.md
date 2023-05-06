@@ -26,7 +26,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/azaanullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azaanullah khan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/azaanullah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azaanullah-khan" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/VNeD4KRj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VNeD4KRj" height="30" width="40" /></a>
 </p>
 
 ### My Skill Set:
