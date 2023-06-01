@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
 <div id="badges">
-  <a href="[https://www.linkedin.com/mwlite/in/rabia-yousuf-b17862185](https://www.linkedin.com/in/azaanullah-khan-2859bb268/)" target="_blank">
+  <a href="[https://www.linkedin.com/mwlite/in/rabia-yousuf-b17862185](https://www.linkedin.com/in/azaanullah-khan-2859bb268/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
