@@ -3,8 +3,14 @@
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
-
+<div id="badges">
+  <a href="[https://www.linkedin.com/mwlite/in/rabia-yousuf-b17862185](https://www.linkedin.com/in/azaanullah-khan-2859bb268/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
+
 
 - 🔭 I’m currently working on [**Netflix Clone Website**](https://azaanullah-khan.github.io/Netflix-Clone-Website/)
 
