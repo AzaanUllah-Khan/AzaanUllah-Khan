@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [**Student's Attendance Web + App (Firebase)**]
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AzaanUllah-Khan)
 
