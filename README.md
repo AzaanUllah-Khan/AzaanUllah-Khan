@@ -44,6 +44,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaanullah-khan&" alt="azaanullah-khan" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzaanUllah-Khan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&custom_title=AzaanUllah%20Khan%20Contribution%20in%20last%2031%20days)]
+
 ---
 
 ### 😂 Random Dev Meme
