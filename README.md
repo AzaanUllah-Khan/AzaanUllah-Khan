@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Front End Development || Web Designing**
 
-- ⚡ 2023 Github Unwrapped 🔥🔥 : https://www.linkedin.com/posts/azaanullah-khan-2859bb268_my-this-years-github-unwrapped-my-github-activity-7144775126004260864-aDg-?utm_source=share&utm_medium=member_desktop
+- ⚡ Fun Fact: I use Tabs over spaces
 
 - 📫 How to reach me **azaanullahkhan291@gmail.com**
 
