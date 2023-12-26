@@ -1,6 +1,6 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm AzaanUllah Khan</h1>
-<h3 align="center">I am a Front End Web Developer</h3>
+<h3 align="center">I am a MERN Stack Web Developer & App Developer</h3>
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
