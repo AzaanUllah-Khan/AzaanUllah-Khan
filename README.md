@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Front End Development || Web Designing**
 
-- ⚡ Fun Fact: I use Tabs over spaces
+- ⚡ Fun Fact: I have 1k+ followers on LinkedIn
 
 - 📫 How to reach me **azaanullahkhan291@gmail.com**
 
