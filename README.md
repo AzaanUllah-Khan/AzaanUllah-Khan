@@ -25,7 +25,7 @@
 
 - 📚 BLOG WEBSITE [Blogg-Up](https://github.com/AzaanUllah-Khan/BloggUp)
 
-- 💬 Ask me about **Front End Development || Web Designing**
+- 💬 Ask me about **Front-End Development || Web Designing**
 
 - ⚡ Fun Fact: I have 1.5k+ followers on LinkedIn
 
