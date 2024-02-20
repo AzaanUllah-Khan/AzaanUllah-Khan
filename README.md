@@ -23,7 +23,7 @@
 
 - ⚡ MS WORD CLONE [Word / Azaan](https://github.com/AzaanUllah-Khan/Ms-Word)
 
-- 📚 BLOG WEBSITE [BloggUp](https://github.com/AzaanUllah-Khan/BloggUp)
+- 📚 BLOG WEBSITE [Blogg-Up](https://github.com/AzaanUllah-Khan/BloggUp)
 
 - 💬 Ask me about **Front End Development || Web Designing**
 
