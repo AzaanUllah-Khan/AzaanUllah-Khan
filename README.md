@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
 
 
-- 🔭 I’m currently working on [**Student's Attendance Web + App (Firebase)**]
+- 🔭 I’m currently working on [**Language Learning Website - Doulingo Clone**]
 
 - 🌱 I’m currently learning **React Native, Mongo DB, NextJS**
 
