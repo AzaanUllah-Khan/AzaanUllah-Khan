@@ -62,4 +62,4 @@
 </a>
 </div>
 <br/>  
-<h6 align="right">Leave Day 2 (Due To Class 9 Boards)</h6>
+<h6 align="right">Leave Day 2 (Due To Class 9 Boards Preparation)</h6>
