@@ -15,7 +15,6 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/AzaanUllah-Khan.svg)](https://user-badge.committers.top/pakistan/AzaanUllah-Khan)
 
 <br>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
 
 
