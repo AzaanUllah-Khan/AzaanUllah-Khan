@@ -15,7 +15,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/AzaanUllah-Khan.svg)](https://user-badge.committers.top/pakistan/AzaanUllah-Khan)
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AzaanUllah-Khan" alt="azaanullah-khan" /></a> </p>
 
 
 - 🔭 I’m currently working on [**Student Attendace App and Website (NextJS React Native Firebase)**]
