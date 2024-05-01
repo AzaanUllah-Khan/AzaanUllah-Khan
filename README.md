@@ -11,12 +11,11 @@
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
-  <a href="https://www.linkedin.com/in/azaanullah-khan-2859bb268/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<br>
-<br>
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/AzaanUllah-Khan.svg)](https://user-badge.committers.top/pakistan/AzaanUllah-Khan)
+
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
 
 
@@ -70,6 +69,7 @@
 </div>
 <br/>  
 <h6 align="right">Leave Day 1 (Due To Class 9 Boards Preparation) 🇵🇰</h6>
+
 
 <h3 align="center">
   
