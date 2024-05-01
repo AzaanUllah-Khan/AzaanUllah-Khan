@@ -1,7 +1,14 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm AzaanUllah Khan</h1>
-<h3 align="center">I am a MERN Stack Web Developer & App Developer</h3>
-<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%" align="center">
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3>
+
+<h3 align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaanUllah-Khan&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
   <a href="https://www.linkedin.com/in/azaanullah-khan-2859bb268/">
@@ -63,3 +70,9 @@
 </div>
 <br/>  
 <h6 align="right">Leave Day 1 (Due To Class 9 Boards Preparation) 🇵🇰</h6>
+
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
