@@ -18,7 +18,6 @@
 <br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AzaanUllah-Khan" alt="azaanullah-khan" /></a>
 </h3>
-<br/>
 
 <h3 align="center">
   
@@ -31,7 +30,6 @@
 </h3>
 
 
-<br/>
 <h3 align="center">
 <p dir="auto"><a href="https://www.instagram.com/azaanullah.khan" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://my-portfolio-azaan.netlify.app/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
