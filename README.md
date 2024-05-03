@@ -20,36 +20,15 @@
 </h3>
 <br/>
 
-<table style="width: 100%;" align="center">
-    <tr>
-        <th>Title</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><strong>Student Attendance App and Website</strong></td>
-        <td>Using NextJS, React Native, and Firebase</td>
-    </tr>
-    <tr>
-        <td><strong>Learning</strong></td>
-        <td>React Native, MongoDB, NextJS</td>
-    </tr>
-    <tr>
-        <td><strong>Projects</strong></td>
-        <td><a href="https://github.com/AzaanUllah-Khan/Duolingo-Clone">Doulingo Clone</a> • <a href="https://github.com/AzaanUllah-Khan/Typing-Test-Game">Typing Test Game</a> • <a href="https://github.com/AzaanUllah-Khan/Tic-Tac-toe">Tic-Tac-Toe Game</a> • <a href="https://github.com/AzaanUllah-Khan/Hangman-Game">Hangman Game</a></td>
-    </tr>
-    <tr>
-        <td><strong>Ask me about</strong></td>
-        <td>Front-End Development, Web Designing</td>
-    </tr>
-    <tr>
-        <td><strong>Followers</strong></td>
-        <td>1.5k+ on LinkedIn</td>
-    </tr>
-    <tr>
-        <td><strong>Contact</strong></td>
-        <td>azaanullahkhan291@gmail.com</td>
-    </tr>
-</table>
+<h3 align="center">
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Duolingo-Clone)](https://github.com/AzaanUllah-Khan/Duolingo-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Hangman-Game)](https://github.com/AzaanUllah-Khan/Duolingo-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Typing-Test-Game)](https://github.com/AzaanUllah-Khan/Duolingo-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Tic-Tac-Toe)](https://github.com/AzaanUllah-Khan/Duolingo-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=3D-Portfolio)](https://github.com/AzaanUllah-Khan/Duolingo-Clone)
+
+</h3>
 
 
 <br/>
