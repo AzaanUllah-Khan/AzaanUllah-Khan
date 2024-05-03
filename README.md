@@ -20,23 +20,37 @@
 </h3>
 <br/>
 
-- 🔭 I’m currently working on [**Student Attendace App and Website (NextJS React Native Firebase)**]
+<table style="width: 100%;" align="center">
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><strong>Student Attendance App and Website</strong></td>
+        <td>Using NextJS, React Native, and Firebase</td>
+    </tr>
+    <tr>
+        <td><strong>Learning</strong></td>
+        <td>React Native, MongoDB, NextJS</td>
+    </tr>
+    <tr>
+        <td><strong>Projects</strong></td>
+        <td><a href="https://github.com/AzaanUllah-Khan/Duolingo-Clone">Doulingo Clone</a> • <a href="https://github.com/AzaanUllah-Khan/Typing-Test-Game">Typing Test Game</a> • <a href="https://github.com/AzaanUllah-Khan/Tic-Tac-toe">Tic-Tac-Toe Game</a> • <a href="https://github.com/AzaanUllah-Khan/Hangman-Game">Hangman Game</a></td>
+    </tr>
+    <tr>
+        <td><strong>Ask me about</strong></td>
+        <td>Front-End Development, Web Designing</td>
+    </tr>
+    <tr>
+        <td><strong>Followers</strong></td>
+        <td>1.5k+ on LinkedIn</td>
+    </tr>
+    <tr>
+        <td><strong>Contact</strong></td>
+        <td>azaanullahkhan291@gmail.com</td>
+    </tr>
+</table>
 
-- 🌱 I’m currently learning **React Native, Mongo DB, NextJS**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/AzaanUllah-Khan)
-
-- 📱 My Instagram Clone Website [Instello](https://github.com/AzaanUllah-Khan/Instello)
-
-- ⚡ MS WORD CLONE [Word / Azaan](https://github.com/AzaanUllah-Khan/Ms-Word)
-
-- 📚 BLOG WEBSITE [Blogg-Up](https://github.com/AzaanUllah-Khan/BloggUp)
-
-- 💬 Ask me about **Front-End Development || Web Designing**
-
-- ⚡ Fun Fact: I have 1.5k+ followers on LinkedIn
-
-- 📫 How to reach me **azaanullahkhan291@gmail.com**
 
 <br/>
 <h3 align="center">
