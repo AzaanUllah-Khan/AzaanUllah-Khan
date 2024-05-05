@@ -68,7 +68,7 @@
 </a>
 </div>
 <br/>  
-
+<p align="right">Leave Day 1 - Due to 9 Class Boards</p>
 <h3 align="center">
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
