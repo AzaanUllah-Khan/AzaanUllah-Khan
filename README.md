@@ -44,7 +44,7 @@
 </h3>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzanUllah-Khan"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanUllah-Khan"/>
 </p>
 <p align="center">
    <a href="https://github.com/AzaanUllah-Khan/github-readme-stats"><img alt="AzaanUllah-Khan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AzaanUllah-Khan&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
