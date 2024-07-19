@@ -50,7 +50,8 @@
    <a href="https://github.com/AzaanUllah-Khan/github-readme-stats"><img alt="AzaanUllah-Khan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AzaanUllah-Khan&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
    <a href="https://github.com/AzaanUllah-Khan/github-readme-stats"><img alt="AzaanUllah-Khan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AzaanUllah-Khan&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
-
+<br />
+<p align="center"><a href="https://gitroll.io/profile/u8GZXZtHittUfKvsIwKnn4MEiqup2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8GZXZtHittUfKvsIwKnn4MEiqup2" alt="GitRoll Profile Badge"/></a></p>
 <br />
 
 <a href="https://github.com/AzaanUllah-Khan/github-readme-activity-graph"><img alt="AzaanUllah-Khan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AzaanUllah-Khan&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
