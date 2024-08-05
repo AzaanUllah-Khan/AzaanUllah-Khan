@@ -26,6 +26,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Hangman-Game)](https://github.com/AzaanUllah-Khan/Hangman-Clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Tic-Tac-Toe)](https://github.com/AzaanUllah-Khan/Tic-Tac-Toe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=3D-Portfolio)](https://github.com/AzaanUllah-Khan/3D-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Discord-UI-Clone)](https://github.com/AzaanUllah-Khan/Discord-UI-Clone)
 
 </h3>
 
