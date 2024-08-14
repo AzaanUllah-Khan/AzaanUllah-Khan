@@ -69,11 +69,11 @@
 <a href="https://github.com/AzaanUllah-Khan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Azaanullahkhan)
 </div>
 <br/>  
 <h3 align="center">
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Azaanullahkhan)
 
 </h3>
