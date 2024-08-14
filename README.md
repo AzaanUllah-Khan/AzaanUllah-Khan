@@ -70,7 +70,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Azaanullahkhan)
+<a href="https://www.buymeacoffee.com/Azaanullahkhan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Azaanullahkhan&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 <br/>  
 <h3 align="center">
