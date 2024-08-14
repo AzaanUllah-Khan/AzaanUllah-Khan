@@ -74,5 +74,6 @@
 <h3 align="center">
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Azaanullahkhan)
 
 </h3>
