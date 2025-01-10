@@ -66,10 +66,6 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/AzaanUllah-Khan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
 <a href="https://www.buymeacoffee.com/Azaanullahkhan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Azaanullahkhan&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 <br/>  
