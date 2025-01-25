@@ -1,5 +1,5 @@
 <h3 align="center">
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  ![.](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 </h3>
 
