@@ -44,14 +44,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanUllah-Khan&theme="white"/>
 </p>
 <br />
-<p align="center"><a href="https://gitroll.io/profile/u8GZXZtHittUfKvsIwKnn4MEiqup2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8GZXZtHittUfKvsIwKnn4MEiqup2" alt="GitRoll Profile Badge"/></a></p>
-<br />
 <a href="https://github.com/AzaanUllah-Khan/github-readme-activity-graph"><img alt="AzaanUllah-Khan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AzaanUllah-Khan&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
+
 <br />
-
-<h3 align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-</h3>
+<p align="center"><a href="https://gitroll.io/profile/u8GZXZtHittUfKvsIwKnn4MEiqup2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8GZXZtHittUfKvsIwKnn4MEiqup2" alt="GitRoll Profile Badge"/></a></p>
