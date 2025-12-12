@@ -22,7 +22,7 @@
 
 <p align="center">
  
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AzaanUllah-Khan&border_radius=5&hide_longest_streak=true" alt="GitHub Streak" /></a>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanUllah-Khan" alt="GitHub Streak" />
   
 </p>
 
