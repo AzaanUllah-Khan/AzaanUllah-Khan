@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
- 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanUllah-Khan" alt="GitHub Streak" />
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanUllah-Khan" alt="GitHub Streak" />
 </p>
 
 <br />
