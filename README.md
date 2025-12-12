@@ -1,27 +1,6 @@
 <h3 align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaanUllah-Khan&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
-
-
-<img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" />
-
-<br/>
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/AzaanUllah-Khan.svg)](https://user-badge.committers.top/pakistan/AzaanUllah-Khan)
-
-<br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AzaanUllah-Khan" alt="azaanullah-khan" /></a>
-</h3>
-
-<h3 align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Duolingo-Clone)](https://github.com/AzaanUllah-Khan/Duolingo-Clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Typing-Test-Game)](https://github.com/AzaanUllah-Khan/Typing-Test-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Notion-Clone)](https://github.com/AzaanUllah-Khan/Notion-Clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=3D-Portfolio)](https://github.com/AzaanUllah-Khan/3D-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Tic-Tac-Toe)](https://github.com/AzaanUllah-Khan/Tic-Tac-Toe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzaanUllah-Khan&repo=Hangman-Game)](https://github.com/AzaanUllah-Khan/Hangman-Clone)
-
 </h3>
 
 
@@ -40,9 +19,13 @@
    <a href="https://github.com/AzaanUllah-Khan/github-readme-stats"><img alt="AzaanUllah-Khan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AzaanUllah-Khan&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
    <a href="https://github.com/AzaanUllah-Khan/github-readme-stats"><img alt="AzaanUllah-Khan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AzaanUllah-Khan&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanUllah-Khan&theme="white"/>
+ 
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AzaanUllah-Khan&border_radius=5&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  
 </p>
+
 <br />
 <a href="https://github.com/AzaanUllah-Khan/github-readme-activity-graph"><img alt="AzaanUllah-Khan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AzaanUllah-Khan&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
