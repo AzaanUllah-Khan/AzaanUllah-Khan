@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="center"> 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaanUllah-Khan&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 </h3>
